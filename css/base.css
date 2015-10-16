@@ -1,0 +1,20 @@
+	img {
+		border : 1px dotted blue;
+		width : 300px;
+		height : 300px;
+	}
+	.popwin {
+		border : 4px solid #CDC5BF;
+		border-radius:25px;
+		-moz-border-radius:25px;
+		width:300px;
+		height:50px;
+		padding-top:23px;
+		padding-left:55px;
+		display:none;
+		z-index:60;
+		position: absolute;
+		opacity:.7;
+		background:#CDC5BF;
+
+	}
